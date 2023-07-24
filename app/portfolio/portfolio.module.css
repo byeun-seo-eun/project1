@@ -1,0 +1,6 @@
+.list { display: flex; justify-content: space-between;}
+.list li {  width: 420px; overflow: hidden; box-sizing: border-box; border: 1px solid #000; padding: 10px; }
+.list li h3 { font-size: 25px; margin-bottom: 15px; }
+.list li div { width: 100%; overflow: hidden; margin-bottom: 15px; }
+.list li img { width: 100%; }
+.list li p { font-size: 18px; }

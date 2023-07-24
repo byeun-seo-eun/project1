@@ -1,0 +1,8 @@
+.header {    width: 100%;  background: #efefef;}
+.header > div { width: 1400px; margin: auto; position: relative; height: 150px; }
+.header h1 { position: absolute; left: 0; top: 60px; }
+.top_menu { position: absolute; right: 0; top: 10px; display: flex;  }
+.top_menu li { margin-left: 15px; }
+.top_menu li a { font-size: 14px; }
+
+

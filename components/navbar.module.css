@@ -1,0 +1,4 @@
+.nav { position: absolute; right: 0; top: 65px; }
+.gnb { display: flex; }
+.gnb li { margin-left: 80px; }
+.gnb li a { font-size: 18px; font-weight: 500; }

@@ -1,0 +1,4 @@
+.inner { width: 1400px; margin: auto; padding: 100px 0;  }
+.inner ul { display: flex; justify-content: space-between; }
+.inner ul li { border: 1px solid #000; height: 150px; width: 24%; }
+.inner ul li h3 { padding: 20px; font-size: 25px; }

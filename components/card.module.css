@@ -1,0 +1,4 @@
+.card { width: 30%; padding: 10px; border: 1px solid #000; margin-bottom: 25px; box-sizing: border-box;}
+.card h3 { font-size: 25px; margin-bottom: 15px; width: 100%; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; transition: 0.3s; cursor: pointer;}
+.card h3:hover { color:hotpink }
+.card p { font-size: 16px; }
